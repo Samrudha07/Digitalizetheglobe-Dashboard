@@ -1,34 +1,44 @@
 # React Dashboard & Clients Page
 
-This project is an assessment consisting of **two main pages** — a **Clients Page** and a **Dashboard Page**.  
-It demonstrates a simple, responsive frontend built using **React.js**, **Chart.js**, **Tailwind CSS**, and **HTML**.
+This project is an **assessment** consisting of two main pages — a **Clients Page** and a **Dashboard Page**.  
+It showcases a responsive frontend built using **React.js**, **Chart.js**, **Tailwind CSS**, and **HTML**.
 
 ---
 
 ## 🚀 Project Overview
 
-### 1. Clients Page
+### 🧾 1. Clients Page
 
 - Displays a list of clients in **card format**.
-- Each card includes client details such as name, email, and status (or other available info).
-- Responsive design ensures proper layout across all screen sizes.
+- Each card shows client details such as name, email, and status (or other available info).
+- Fully **responsive** layout for both desktop and mobile screens.
 
-### 2. Dashboard Page
+📸 **Screenshot: Clients Page**
 
-- Contains various **charts** visualizing key metrics using **Chart.js**.
-- Includes a **Customer Details Section** showing relevant data and insights.
-- Interactive and clean UI for easy data interpretation.
+![Clients Page Screenshot](./screenshots/clients-page.png)
+
+---
+
+### 📊 2. Dashboard Page
+
+- Displays **charts and visual insights** created using **Chart.js**.
+- Contains a **Customer Details Section** with key information.
+- Interactive and data-driven UI for better visualization.
+
+📸 **Screenshot: Dashboard Page**
+
+![Dashboard Page Screenshot](./screenshots/dashboard-page.png)
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology       | Purpose                                          |
-| ---------------- | ------------------------------------------------ |
-| **React.js**     | Component-based UI development                   |
-| **Chart.js**     | Creating responsive and interactive charts       |
-| **Tailwind CSS** | Utility-first CSS for styling and responsiveness |
-| **HTML**         | Basic structure of components                    |
+| Technology       | Purpose                                  |
+| ---------------- | ---------------------------------------- |
+| **React.js**     | Component-based UI development           |
+| **Chart.js**     | Interactive and responsive charts        |
+| **Tailwind CSS** | Utility-first styling and responsiveness |
+| **HTML**         | Basic structure of components            |
 
 ---
 
